@@ -1,4 +1,4 @@
-    <!--- ACCORDION STYLES, manual FR--->
+/* Accordion */
 
 button.accordion {
     background-color: #eee;
@@ -44,9 +44,10 @@ div.panel.show {
 }
 
   
-  <!---- END ACCORDION STYLES-->
+/*  END  Accordion */
   
-    <!----  CURRICULUM STYLES-->
+    /* Curriculum */
+
 
   .course-section {
   margin-bottom: 10px; }
@@ -167,10 +168,10 @@ div.panel.show {
   
   
   
-    <!---- END CURRICULUM STYLES-->
+    /* END Curriculum */
   
   
-  <!--- DIV TABLE--->
+   /* Start Div table */
   .divTable{
 	display: table;
 	width: 100%;
@@ -204,11 +205,9 @@ div.panel.show {
   
   
   
+   /* end table */
   
-   <!--- DIV TABLE--->
-  
-    <!--- Start Testimonial PML  Extra Style --->
-  
+ /* testimonial twitter */  
   
 
 .pml-testi-wrap { 
@@ -254,11 +253,11 @@ div.panel.show {
     
   
   
-    <!--- END Testimonial PML  Extra Style --->  
+ /* end twitter*/
+
+
   
-  
-  <!--- Start Product Page Extra Style --->
-  
+ /* product page specs */  
   
   .details-specs {
   background: #f0f0f0;
@@ -325,10 +324,9 @@ div.pml-blog-head1 {
    
   
   
-    <!--- End Product Page Extra Style --->
+ /* end product page */  
   
-  
-  <!--- Start Give  Page Extra Style --->
+   /* giveaway */
   
   
   
@@ -439,13 +437,11 @@ div.middle { vertical-align: middle; }
 
 
  
-    <!--- END Give  Page Extra Style --->
-  
+   /* end giveaway */  
   
   
 
-          <!---- START NEW Pricing STYLES-->
-  
+   /* new pricing style */  
   
 
 
@@ -564,14 +560,6 @@ div.middle { vertical-align: middle; }
 .col-price1 li.get-it {
   background: #fff;
 }
-button {
-  padding: 5px 20px;
-  font-size: 16px;
-  color: #fff;
-  border: 1px solid #f25c54;
-  box-shadow: 0 3px #db514a;
-  background: #f25c54;
-}
 
  
-  <!----   END NEW Pricing STYLES-->
+   /* end new pricing style */  
